@@ -1,0 +1,19 @@
+{
+  "name": "react.backbone",
+  "version": "0.1.0",
+  "description": "plugin for React to make Backbone migration easier",
+  "main": "react.backbone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/usepropeller/react.backbone.git"
+  },
+  "author": "",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/usepropeller/react.backbone/issues"
+  },
+  "homepage": "https://github.com/usepropeller/react.backbone"
+}
