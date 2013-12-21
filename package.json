@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/usepropeller/react.backbone/issues"
   },
-  "homepage": "https://github.com/usepropeller/react.backbone"
+  "homepage": "https://github.com/usepropeller/react.backbone",
+  "dependencies": {
+    "envify": "~0.2.0",
+    "react": "~0.8.0"
+  }
 }

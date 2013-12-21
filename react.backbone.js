@@ -1,3 +1,5 @@
+var React = require('react');
+
 React.BackboneMixin = {
     _subscribe: function(model) {
         if (!model) {
