@@ -51,3 +51,5 @@ React.createBackboneClass = function(spec) {
     };
     return React.createClass(spec);
 };
+
+module.exports = React;
